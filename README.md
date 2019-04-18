@@ -1,3 +1,5 @@
+Writen and maintained by Yewchi.
+
 Some helpful command-line for analyzing card-game draws and odds.
 
 
@@ -13,4 +15,4 @@ or after exporting a MTGA deck to cards.txt / some_text_file.txt...
 
 try:
 
-  draw [some_text_file.txt]
+  draw [deck_size some_text_file.txt]
